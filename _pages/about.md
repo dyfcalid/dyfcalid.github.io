@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage | Zehan Zheng"
+title: "Zehan Zheng &#124; 郑泽涵"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,110 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+----
+  
+
+## 💫About Me
+
+I am currently a first-year M.Sc. student at the [ISPC Lab](https://ispc-group.github.io/), Institute of Intelligent Vehicles, [Tongji University](https://www.tongji.edu.cn/) and supervised by [Prof. Guang Chen](https://scholar.google.com/citations?user=kBhIyv4AAAAJ&hl=en&oi=sra). Before this, I obtained the bachelor’s degree in Automotive Engineering at Tongji University.
+
+My research interests mainly focus on 3D Computer Vision, Deep Learning and Autonomous Driving Perception. In 2022, I was a research intern at [OpenDriveLab](https://opendrivelab.com/) of [Shanghai AI Laboratory](https://www.shlab.org.cn/) under [Prof. Hongyang Li](https://scholar.google.com/citations?user=Hfrih1EAAAAJ&hl=en).
+
+I'm also looking for Ph.D. opportunities, please feel free to contact me with the [email](mailto:zhengzehan@tongji.edu.cn)📬.
+  
+&nbsp;  
+  
+## 🔥News
+**[2023/02]** 🎉 One paper was accepted by **CVPR 2023**.  
+**[2022/07]** 🎉 One paper was accepted by **ECCV 2022 (Oral, top 2.7%)**.
+  
+  
+&nbsp;  
+
+## 📝Publications
+<div class='paper-box'><div class='paper-box-image'><img src='../images/neuralpci_overview.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**NeuralPCI: Spatio-temporal Neural Field for 3D Point Cloud Multi-frame Non-linear Interpolation**  
+**Zehan Zheng**, Danni Wu, Ruisi Lu, Fan Lu, Guang Chen, Changjun Jiang  
+CVPR, 2023  
+**[[Paper]]()** &#124; **[[Code]]()** &#124; **[[Project Page]]()**  
+End-to-end 4D spatio-temporal Neural field for 3D Point Cloud Interpolation, which implicitly integrates multi-frame information to handle nonlinear large motions for both indoor and outdoor scenarios.  
+
+</div>
+</div>
+
+  
+<div class='paper-box'><div class='paper-box-image'><img src='../images/persformer_overview.png' alt="sym" width="100%">
+</div><div class='paper-box-text' markdown="1">
+  
+**PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark**  
+Li Chen∗, Chonghao Sima∗, Yang Li∗, **Zehan Zheng**, Jiajie Xu, Xiangwei Geng, Hongyang Li, Conghui He, Jianping Shi, Yu Qiao, Junchi Yan. (∗ equal contributions)  
+ECCV, 2022 (Oral)  
+**[[Paper]](https://arxiv.org/abs/2203.11089)** &#124; **[[Code]](https://github.com/OpenPerceptionX/PersFormer_3DLane)** &#124; **[[Blog]](https://zhuanlan.zhihu.com/p/552908337)** &#124; **[[Slides]](https://docs.google.com/presentation/d/1on8TmXQSXo0n-dI9voRUe5j8YNg2CfcmoP7esK0GuXI/edit?usp=sharing)** &#124; **[[Video]](https://www.youtube.com/watch?v=JJ84ttN4hBY)** (4min) &#124; **[[Talk]](https://app6ca5octe2206.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_63311e31e4b0c942649a9314)** (50min) &#124; **[[Poster]](https://drive.google.com/file/d/1aCc3yJkfjSSmtdXIicG4cov2f1EalbSX/view?usp=sharing)**  
+End-to-end monocular 3D lane detector with a novel Transformer-based spatial feature transformation module which generates BEV features by attending to related front-view local regions with camera parameters as a reference. 
+
+</div>
+</div>
+
+&nbsp;  
+  
+## 🏗️Projects
+
+<div class='paper-box'><div class='paper-box-image'><img src='../images/bev_demo.gif' alt="sym" width="100%">
+</div><div class='paper-box-text' markdown="1">
+  
+**Vehicle-mounted Surround-view Fisheye Camera Panoramic Bird's Eye View (BEV) Calibration**  
+
+**[[GitHub Demo]](https://github.com/dyfcalid/CameraCalibration)**  
+Based on the drone to complete the calibration of the vehicle-mounted surround-view fisheye camera, the conversion and stitching of the panoramic bird's eye view (BEV).
+
+</div>
+</div>
+
+&nbsp;  
+  
+## 🏆Honors and Awards
+- Outstanding Graduate of Tongji University, 2022
+- Outstanding Student of Tongji University, 2018, 2021
+- First Prize of Tongji University Scholarship, 2018, 2021
+- National Second Prize of China Undergraduate Mathematical Contest in Modeling (CUMCM), 2020
+- Rank 3rd (National First Prize) in Formula Student China Competition (FSC), 2020  
+. . . . . .
+
+&nbsp;  
+  
+
+## 📖Educations
+- Tongji University, Shanghai, China (2022 - Present)  
+M.Sc. Student, ISPC Lab, Institute of Intelligent Vehicles
+- Tongji University, Shanghai, China (2017 - 2022)  
+Bachelor's Degree in Automotive Engineering (5 years)  
+
+&nbsp; 
+  
+
+## 💻Research Experience
+- 2022 - Present  
+[Intelligent Perception and Computing Lab](https://ispc-group.github.io/), Institute of Intelligent Vehicles, Tongji University
+- Dec. 2021 - June 2022  
+Research Intern at [OpenDriveLab](https://opendrivelab.com/) of [Shanghai AI Laboratory](https://www.shlab.org.cn/).
+- Mar. 2021 - Nov. 2021  
+[Comprehensive Perception Research Group](https://github.com/tjiiv-cprg), Institute of Intelligent Vehicles, Tongji University
+  
+&nbsp;   
+
+## 🛠️Engineering Experience
+- 2018 - 2021  
+Tongji University (Formula SAE) Racing Team sponsored by Lotus 🏎️  
+Technical Leader & Driver & Aerodynamics Group  
+
+&nbsp;   
+
+## 📓Invention Patents
+- Three invention patents are under substantive examination, one of which is the first inventor.
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -40,11 +143,11 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 How to edit your site's GitHub repository
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw &#124; Blame &#124; History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
