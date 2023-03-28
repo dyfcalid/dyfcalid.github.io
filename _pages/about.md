@@ -30,24 +30,17 @@ I'm also looking for Ph.D. opportunities, please feel free to contact me with th
 
 ## 📝Publications
 <div class='paper-box'><div class='paper-box-image'>
-<video id="tree" autoplay muted loop width="32%">
+<video id="tree" autoplay muted loop width="25%">
   <source src="..\static\videos\NeuralPCI\DHB_demo_1.mp4" type="video/mp4">
-</video>
-<video id="tree" autoplay muted loop width="32%">
-  <source src="..\static\videos\NeuralPCI\DHB_demo_5.mp4" type="video/mp4">
-</video>
-<video id="tree" autoplay muted loop width="32%">
-  <source src="..\static\videos\NeuralPCI\DHB_demo_6.mp4" type="video/mp4">
-</video>
-<br>
-<video autoplay loop muted playsinline width="100%" >
+</video>&nbsp;
+<video autoplay loop muted playsinline width="72%" >
   <source src="..\static\videos\NeuralPCI\NL_Drive_demo.mp4" type="video/mp4">
 </video>
 </div>
 <div class='paper-box-text' markdown="1">
 
 **NeuralPCI: Spatio-temporal Neural Field for 3D Point Cloud Multi-frame Non-linear Interpolation**  
-**Zehan Zheng∗**, Danni Wu∗, Ruisi Lu, Fan Lu, Guang Chen, Changjun Jiang  
+**Zehan Zheng**∗, Danni Wu∗, Ruisi Lu, Fan Lu, Guang Chen, Changjun Jiang  
 CVPR, 2023  
 **[[Paper]](https://arxiv.org/abs/2303.15126)** &#124; **[[Code]](https://github.com/ispc-lab/NeuralPCI)** &#124; **[[Project Page]](https://dyfcalid.github.io/NeuralPCI)**  
 End-to-end 4D spatio-temporal Neural field for 3D Point Cloud Interpolation, which implicitly integrates multi-frame information to handle nonlinear large motions for both indoor and outdoor scenarios.  
