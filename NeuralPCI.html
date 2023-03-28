@@ -11,15 +11,15 @@
   <meta property="og:description" content="NeuralPCI: Spatio-temporal Neural Field for 3D Point Cloud Multi-frame Non-linear Interpolation"/>
   <meta property="og:url" content="https://dyfcalid.github.io/NeuralPCI"/>
   <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
-  <meta property="og:image" content="static/image/NeuralPCI/overview.jpg" />
-  <meta property="og:image:width" content="1920"/>
-  <meta property="og:image:height" content="893"/>
+  <meta property="og:image" content="static/image/NeuralPCI/overview.png" />
+  <meta property="og:image:width" content="1280"/>
+  <meta property="og:image:height" content="600"/>
 
 
   <meta name="twitter:title" content="NeuralPCI ProjectPage">
   <meta name="twitter:description" content="NeuralPCI: Spatio-temporal Neural Field for 3D Point Cloud Multi-frame Non-linear Interpolation">
   <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
-  <meta name="twitter:image" content="static/image/NeuralPCI/overview.jpg">
+  <meta name="twitter:image" content="static/image/NeuralPCI/overview.png">
   <meta name="twitter:card" content="NeuralPCI">
   <!-- Keywords for your paper to be indexed by-->
   <meta name="keywords" content="NeuralPCI, Spatio temporal, Neural Field, 3D Point Cloud, Multiframe, Nonlinear, Interpolation, CVPR, ISPC Lab, Tongji University, Zehan Zheng">
@@ -140,22 +140,25 @@
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body" align="center">
-      <video poster="" id="tree" autoplay controls muted loop width="30%">
+      <video id="tree" autoplay muted loop width="30%">
         <!-- Your video here -->
         <source src="static\videos\NeuralPCI\DHB_demo_1.mp4" type="video/mp4">
       </video>
-      <video poster="" id="tree" autoplay controls muted loop width="30%">
+      <video id="tree" autoplay muted loop width="30%">
         <source src="static\videos\NeuralPCI\DHB_demo_5.mp4" type="video/mp4">
       </video>
-      <video poster="" id="tree" autoplay controls muted loop width="30%">
+      <video id="tree" autoplay muted loop width="30%">
         <source src="static\videos\NeuralPCI\DHB_demo_6.mp4" type="video/mp4">
       </video>
       <h2 class="subtitle has-text-centered">
         <b>Demo</b> (Indoor Scenarios)
       </h2>
-        <img src="static\videos\NeuralPCI\NL_Drive_scene01_concat.gif" width="90%">
+      <video id="tree" autoplay loop muted playsinline width="90%" >
+        <source src="static\videos\NeuralPCI\NL_Drive_demo.mp4" type="video/mp4">
+      </video>
       <h2 class="subtitle has-text-centered">
         <b>Demo</b> (Outdoor Scenarios)
+      </h2>
       </h2>
     </div>
   </div>
@@ -180,7 +183,7 @@
             Ultimately, NeuralPCI achieves state-of-the-art performance on both DHB (Dynamic Human Bodies) and NL-Drive datasets. 
             Beyond the interpolation task, our method can be naturally extended to point cloud extrapolation, morphing, and auto-labeling, which indicates substantial potential in other domains.
         </div>
-        <img src="static\images\NeuralPCI\intro_light.jpg" width="75%">
+        <img src="static\images\NeuralPCI\intro_light.png" width="75%">
       </div>
     </div>
   </div>
@@ -238,7 +241,7 @@
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
         <h2 class="title is-3">Method</h2>
-        <img src="static\images\NeuralPCI\overview.jpg">
+        <img src="static\images\NeuralPCI\overview.png">
           <h2 class="subtitle has-text-centered">
             <!-- Overview -->
           </h2>
@@ -288,31 +291,43 @@
     <div class="container is-max-desktop">
       <h2 class="title is-3">Results on DHB Dataset</h2>
           <div class="hero-body" align="center">
-            <img src="static\videos\NeuralPCI\DHB_scene01_concat.gif" width="30%">
-            <img src="static\videos\NeuralPCI\DHB_scene02_concat.gif" width="30%">
-            <img src="static\videos\NeuralPCI\DHB_scene03_concat.gif" width="30%">
-            <img src="static\videos\NeuralPCI\DHB_scene04_concat.gif" width="30%">
-            <img src="static\videos\NeuralPCI\DHB_scene05_concat.gif" width="30%">
-            <img src="static\videos\NeuralPCI\DHB_scene06_concat.gif" width="30%">
+            <video autoplay loop muted playsinline width="30%" >
+              <source src="static\videos\NeuralPCI\DHB_scene01_concat.mp4" type="video/mp4">
+            </video>
+            <video autoplay loop muted playsinline width="30%" >
+              <source src="static\videos\NeuralPCI\DHB_scene02_concat.mp4" type="video/mp4">
+            </video>
+            <video autoplay loop muted playsinline width="30%" >
+              <source src="static\videos\NeuralPCI\DHB_scene03_concat.mp4" type="video/mp4">
+            </video>
+            <video autoplay loop muted playsinline width="30%" >
+              <source src="static\videos\NeuralPCI\DHB_scene04_concat.mp4" type="video/mp4">
+            </video>
+            <video autoplay loop muted playsinline width="30%" >
+              <source src="static\videos\NeuralPCI\DHB_scene05_concat.mp4" type="video/mp4">
+            </video>
+            <video autoplay loop muted playsinline width="30%" >
+              <source src="static\videos\NeuralPCI\DHB_scene06_concat.mp4" type="video/mp4">
+            </video>
           </div>
       <div id="results-carousel" class="carousel results-carousel">
        <div class="item">
         <!-- Your image here -->
-        <img src="static\images\NeuralPCI\DHB_vis.jpg" alt="MY ALT TEXT"/>
+        <img src="static\images\NeuralPCI\DHB_vis.png" alt="DHB_vis"/>
         <h2 class="subtitle has-text-centered">
           <!-- First image description. -->
         </h2>
       </div>
       <div class="item">
         <!-- Your image here -->
-        <img src="static\images\NeuralPCI\DHB_vis_2.jpg" alt="MY ALT TEXT"/>
+        <img src="static\images\NeuralPCI\DHB_vis_2.png" alt="DHB_vis2"/>
         <h2 class="subtitle has-text-centered">
           <!-- Second image description. -->
         </h2>
       </div>
       <div class="item">
         <!-- Your image here -->
-        <img src="static\images\NeuralPCI\DHB_vis_3.jpg" alt="MY ALT TEXT"/>
+        <img src="static\images\NeuralPCI\DHB_vis_3.png" alt="DHB_vis3"/>
         <h2 class="subtitle has-text-centered">
          <!-- Third image description. -->
        </h2>
@@ -333,21 +348,21 @@
       <div id="results-carousel" class="carousel results-carousel">
        <div class="item">
         <!-- Your image here -->
-        <img src="static\images\NeuralPCI\NL_vis1.jpg" alt="MY ALT TEXT"/>
+        <img src="static\images\NeuralPCI\NL_vis1.jpg" alt="NL_vis1"/>
         <h2 class="subtitle has-text-centered">
           <!-- First image description. -->
         </h2>
         </div>
         <div class="item">
           <!-- Your image here -->
-          <img src="static\images\NeuralPCI\NL_vis2.jpg" alt="MY ALT TEXT"/>
+          <img src="static\images\NeuralPCI\NL_vis2.jpg" alt="NL_vis2"/>
           <h2 class="subtitle has-text-centered">
             <!-- Second image description. -->
           </h2>
         </div>
         <div class="item">
           <!-- Your image here -->
-          <img src="static\images\NeuralPCI\NL_vis3.jpg" alt="MY ALT TEXT"/>
+          <img src="static\images\NeuralPCI\NL_vis3.jpg" alt="NL_vis3"/>
           <h2 class="subtitle has-text-centered">
           <!-- Third image description. -->
         </h2>
@@ -366,8 +381,10 @@
       <h2 class="title is-3">Point Cloud Morphing</h2>
         <!-- Your image here -->
         <div class="hero-body" align="center" align="center">
-        <img src="static\videos\NeuralPCI\morphing_demo.gif" width="15%"><br>
-        <img src="static\images\NeuralPCI\point_cloud_morphing.jpg" alt="Point Cloud Morphing" width="90%"/>
+          <video id="tree" autoplay loop muted playsinline width="15%" >
+            <source src="static\videos\NeuralPCI\morphing_demo.mp4" type="video/mp4">
+          </video><br>
+        <img src="static\images\NeuralPCI\point_cloud_morphing.png" alt="Point Cloud Morphing" width="90%"/>
         <h2 class="subtitle has-text-centered">
           <!-- First image description. -->
         </h2>
@@ -384,7 +401,7 @@
       <h2 class="title is-3">Auto-labeling</h2>
         <!-- Your image here -->
         <div class="hero-body" align="center" align="center">
-        <img src="static\images\NeuralPCI\auto_labeling.jpg" alt="MY ALT TEXT"/>
+        <img src="static\images\NeuralPCI\auto_labeling.png" alt="auto_labeling"/>
         <h2 class="subtitle has-text-centered">
           <!-- First image description. -->
         </div>

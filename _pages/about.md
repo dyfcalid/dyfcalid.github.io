@@ -29,7 +29,21 @@ I'm also looking for Ph.D. opportunities, please feel free to contact me with th
 &nbsp;  
 
 ## 📝Publications
-<div class='paper-box'><div class='paper-box-image'><img src='../static\videos\NeuralPCI\DHB_scene01_concat.gif' alt="sym" width="40%">&nbsp;<img src='../static\videos\NeuralPCI\NL_Drive_scene01_concat.gif' alt="sym" width="58%"></div>
+<div class='paper-box'><div class='paper-box-image'>
+<video id="tree" autoplay muted loop width="32%">
+  <source src="..\static\videos\NeuralPCI\DHB_demo_1.mp4" type="video/mp4">
+</video>
+<video id="tree" autoplay muted loop width="32%">
+  <source src="..\static\videos\NeuralPCI\DHB_demo_5.mp4" type="video/mp4">
+</video>
+<video id="tree" autoplay muted loop width="32%">
+  <source src="..\static\videos\NeuralPCI\DHB_demo_6.mp4" type="video/mp4">
+</video>
+<br>
+<video autoplay loop muted playsinline width="100%" >
+  <source src="..\static\videos\NeuralPCI\NL_Drive_demo.mp4" type="video/mp4">
+</video>
+</div>
 <div class='paper-box-text' markdown="1">
 
 **NeuralPCI: Spatio-temporal Neural Field for 3D Point Cloud Multi-frame Non-linear Interpolation**  
@@ -42,7 +56,7 @@ End-to-end 4D spatio-temporal Neural field for 3D Point Cloud Interpolation, whi
 </div>
 
   
-<div class='paper-box'><div class='paper-box-image'><img src='../images/persformer_overview.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><img src='../images/persformer_overview.png' alt="persformer_overview" width="100%">
 </div><div class='paper-box-text' markdown="1">
   
 **PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark**  
@@ -58,7 +72,10 @@ End-to-end monocular 3D lane detector with a novel Transformer-based spatial fea
   
 ## 🏗️Projects
 
-<div class='paper-box'><div class='paper-box-image'><img src='../images/bev_demo.gif' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'>
+<video autoplay loop muted playsinline width="100%" >
+  <source src="../images/bev_demo.mp4" type="video/mp4">
+</video>
 </div><div class='paper-box-text' markdown="1">
   
 **Vehicle-mounted Surround-view Fisheye Camera Panoramic Bird's Eye View (BEV) Calibration**  
