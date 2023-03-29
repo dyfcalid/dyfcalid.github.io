@@ -30,7 +30,7 @@ I'm also looking for Ph.D. opportunities, please feel free to contact me with th
 
 ## 📝Publications
 <div class='paper-box'><div class='paper-box-image'>
-<video id="tree" autoplay muted loop width="25%">
+<video autoplay loop muted playsinline width="25%">
   <source src="..\static\videos\NeuralPCI\DHB_demo_1.mp4" type="video/mp4">
 </video>&nbsp;
 <video autoplay loop muted playsinline width="72%" >
