@@ -31,9 +31,11 @@ I'm also looking for Ph.D. opportunities, please feel free to contact me with th
 ## 📝Publications
 <div class='paper-box'><div class='paper-box-image'>
 <video autoplay loop muted playsinline width="25%">
+  <source src="..\static\videos\NeuralPCI\webm\DHB_demo_1.webm" type="video/webm" />
   <source src="..\static\videos\NeuralPCI\DHB_demo_1.mp4" type="video/mp4">
 </video>&nbsp;
 <video autoplay loop muted playsinline width="72%" >
+  <source src="..\static\videos\NeuralPCI\webm\NL_Drive_demo.webm" type="video/webm" />
   <source src="..\static\videos\NeuralPCI\NL_Drive_demo.mp4" type="video/mp4">
 </video>
 </div>
