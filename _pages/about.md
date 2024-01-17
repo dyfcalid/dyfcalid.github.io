@@ -13,12 +13,20 @@ redirect_from:
 
 ## 💫About Me
 
-I am currently a first-year M.Sc. student at the [ISPC Lab](https://ispc-group.github.io/), Institute of Intelligent Vehicles, [Tongji University](https://www.tongji.edu.cn/) and supervised by [Prof. Guang Chen](https://scholar.google.com/citations?user=kBhIyv4AAAAJ&hl=en&oi=sra). Before this, I obtained the bachelor’s degree in Automotive Engineering at Tongji University.
+I am currently a second-year M.S.E. student at the [ISPC Lab](https://ispc-group.github.io/), Institute of Intelligent Vehicles, [Tongji University](https://www.tongji.edu.cn/) and advised by [Prof. Guang Chen](https://scholar.google.com/citations?user=kBhIyv4AAAAJ&hl=en&oi=sra). Before this, I obtained the bachelor’s degree in Vehicle Engineering at Tongji University.
 
-My research interests mainly focus on 3D Computer Vision, Deep Learning and Autonomous Driving Perception. In 2022, I was a research intern at [OpenDriveLab](https://opendrivelab.com/) of [Shanghai AI Laboratory](https://www.shlab.org.cn/) under [Prof. Hongyang Li](https://scholar.google.com/citations?user=Hfrih1EAAAAJ&hl=en).
+My research interests mainly focus on 3D Computer Vision, Dynamic Reconstruction and Autonomous Driving Perception. In 2022, I was a research intern at [OpenDriveLab](https://opendrivelab.com/) of [Shanghai AI Laboratory](https://www.shlab.org.cn/) advised by [Prof. Hongyang Li](https://scholar.google.com/citations?user=Hfrih1EAAAAJ&hl=en).
 
-I'm also looking for Ph.D. opportunities, please feel free to contact me with the [email](mailto:zhengzehan@tongji.edu.cn)📬.
+I'm also looking for research internship and **Ph.D. (2025 fall)** opportunities, please feel free to drop me an [email](mailto:zhengzehan@tongji.edu.cn)📬!  
+
+Download my [Resumé](../files/CV_ZehanZheng.pdf).
   
+<div align=center>
+<img src='../images/logo_tongji.png' alt="tongji" width="16%"> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<img src='../images/logo_opendrivelab.png' alt="opendrivelab" width="20%"> 
+</div>
+
 &nbsp;  
   
 ## 🔥News
@@ -44,7 +52,7 @@ I'm also looking for Ph.D. opportunities, please feel free to contact me with th
 **NeuralPCI: Spatio-temporal Neural Field for 3D Point Cloud Multi-frame Non-linear Interpolation**  
 **Zehan Zheng**∗, Danni Wu∗, Ruisi Lu, Fan Lu, Guang Chen, Changjun Jiang  
 CVPR, 2023  
-**[[Paper]](https://arxiv.org/abs/2303.15126)** &#124; **[[Code]](https://github.com/ispc-lab/NeuralPCI)** &#124; **[[Project Page]](https://dyfcalid.github.io/NeuralPCI)**  
+**[[Paper]](https://arxiv.org/abs/2303.15126)** &#124; **[[Code]](https://github.com/ispc-lab/NeuralPCI)** &#124; **[[Project Page]](https://dyfcalid.github.io/NeuralPCI)**  | **[[Video]](https://www.youtube.com/watch?v=KXPkEwBGzOI)** (6min)| **[[Talk]](https://www.bilibili.com/video/BV1Ch4y1x75q?t=27896)** (15min, Chinese) | **[[Slides]](https://drive.google.com/file/d/141G0mk4XubM4HFSyyXsCWZBuzXQ9PGO0/view?usp=sharing)** | **[[Poster]](https://drive.google.com/file/d/1sahMOrG32hRhqSxqoreW65U1DcSKCvgm/view?usp=sharing)**  
 End-to-end 4D spatio-temporal Neural field for 3D Point Cloud Interpolation, which implicitly integrates multi-frame information to handle nonlinear large motions for both indoor and outdoor scenarios.  
 
 </div>
@@ -57,7 +65,7 @@ End-to-end 4D spatio-temporal Neural field for 3D Point Cloud Interpolation, whi
 **PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark**  
 Li Chen∗, Chonghao Sima∗, Yang Li∗, **Zehan Zheng**, Jiajie Xu, Xiangwei Geng, Hongyang Li, Conghui He, Jianping Shi, Yu Qiao, Junchi Yan. (∗ equal contributions)  
 ECCV, 2022 (Oral)  
-**[[Paper]](https://arxiv.org/abs/2203.11089)** &#124; **[[Code]](https://github.com/OpenPerceptionX/PersFormer_3DLane)** &#124; **[[Blog]](https://zhuanlan.zhihu.com/p/552908337)** &#124; **[[Slides]](https://docs.google.com/presentation/d/1on8TmXQSXo0n-dI9voRUe5j8YNg2CfcmoP7esK0GuXI/edit?usp=sharing)** &#124; **[[Video]](https://www.youtube.com/watch?v=JJ84ttN4hBY)** (4min) &#124; **[[Talk]](https://app6ca5octe2206.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_63311e31e4b0c942649a9314)** (50min) &#124; **[[Poster]](https://drive.google.com/file/d/1aCc3yJkfjSSmtdXIicG4cov2f1EalbSX/view?usp=sharing)**  
+**[[Paper]](https://arxiv.org/abs/2203.11089)** &#124; **[[Code]](https://github.com/OpenDriveLab/PersFormer_3DLane)** &#124; **[[Blog]](https://zhuanlan.zhihu.com/p/552908337)** &#124; **[[Slides]](https://docs.google.com/presentation/d/1on8TmXQSXo0n-dI9voRUe5j8YNg2CfcmoP7esK0GuXI/edit?usp=sharing)** &#124; **[[Video]](https://www.youtube.com/watch?v=JJ84ttN4hBY)** (4min) &#124; **[[Talk]](https://app6ca5octe2206.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_63311e31e4b0c942649a9314)** (50min) &#124; **[[Poster]](https://drive.google.com/file/d/1aCc3yJkfjSSmtdXIicG4cov2f1EalbSX/view?usp=sharing)**  
 End-to-end monocular 3D lane detector with a novel Transformer-based spatial feature transformation module which generates BEV features by attending to related front-view local regions with camera parameters as a reference. 
 
 </div>
@@ -83,45 +91,63 @@ Based on the drone to complete the calibration of the vehicle-mounted surround-v
 
 &nbsp;  
   
-## 🏆Honors and Awards
-- Outstanding Graduate of Tongji University, 2022
-- Outstanding Student of Tongji University, 2018, 2021
-- First Prize of Tongji University Scholarship, 2018, 2021
-- National Second Prize of China Undergraduate Mathematical Contest in Modeling (CUMCM), 2020
-- Rank 3rd (National First Prize) in Formula Student China Competition (FSC), 2020  
-. . . . . .
-
-&nbsp;  
-  
-
-## 📖Educations
-- Tongji University, Shanghai, China (2022 - Present)  
-M.Sc. Student, ISPC Lab, Institute of Intelligent Vehicles
-- Tongji University, Shanghai, China (2017 - 2022)  
-Bachelor's Degree in Automotive Engineering (5 years)  
-
-&nbsp; 
-  
 
 ## 💻Research Experience
+
 - 2022 - Present  
-[Intelligent Perception and Computing Lab](https://ispc-group.github.io/), Institute of Intelligent Vehicles, Tongji University
+  ***Research Assistant*** - **Intelligent Sensing, Perception and Computing Lab ([ISPC](https://ispc-group.github.io/)), Tongji University**  
+  Research included: 3D Point Clouds, 4D Reconstruction, Neural Fields  
+  Advisor: [Prof. Guang Chen](https://scholar.google.com/citations?user=kBhIyv4AAAAJ)   
+
+
 - Dec. 2021 - June 2022  
-Research Intern at [OpenDriveLab](https://opendrivelab.com/) of [Shanghai AI Laboratory](https://www.shlab.org.cn/).
-- Mar. 2021 - Nov. 2021  
-[Comprehensive Perception Research Group](https://github.com/tjiiv-cprg), Institute of Intelligent Vehicles, Tongji University
+  ***Research Intern*** - **[OpenDriveLab](https://opendrivelab.com/) of Shanghai AI Laboratory**  
+  Research included: 3D Laneline Detection in Autonomous Driving  
+  Advisor: [Prof. Hongyang Li](https://scholar.google.com/citations?user=Hfrih1EAAAAJ)
+
+
+- Mar. 2021 - Nov. 2021    
+  ***Research Intern*** - **Comprehensive Perception Research Group ([CPRG](https://github.com/tjiiv-cprg)), Tongji University**  
+  Research included: Fish-eye Camera Calibration, Bird’s Eye View (BEV)  
+  Advisor: [Prof. Wei Tian](https://scholar.google.com/citations?user=aYKQn88AAAAJ)
   
+
 &nbsp;   
+
 
 ## 🛠️Engineering Experience
 - 2018 - 2021  
-Tongji University (Formula SAE) Racing Team sponsored by Lotus 🏎️  
+Tongji University (Formula SAE) [Racing Team](http://www.tjuracing.com/) sponsored by Lotus 🏎️  
 Technical Leader & Driver & Aerodynamics Group  
+Achieve 1st in FSC-2019 / 3rd in FSJ-2019 / 3rd in FSC-2020 / 2nd in FSC-2021
 
 &nbsp;   
 
-## 📓Invention Patents
-- Three invention patents are under substantive examination, one of which is the first inventor.
+
+## 🏆Honors and Awards
+- Excellent Graduate of Tongji University, 2022
+- Outstanding Student of Tongji University, 2018, 2021
+- First Prize of Tongji University Scholarship (Top 2%), 2018, 2021
+- National First Prize in Formula Student China Competition (FSC), 2020
+- National Second Prize of China Undergraduate Mathematical Contest in Modeling (CUMCM), 2020  
+. . . . . .
+
+&nbsp;  
+
+
+<!-- ## 📖Educations
+- Tongji University, Shanghai, China (2022 - Present)  
+ISPC Lab, Institute of Intelligent Vehicles  
+M.S.E. Student in Autonomous Driving, Vehicle Engineering  
+Advised by Prof. Guang Chen  
+- Tongji University, Shanghai, China (2017 - 2022)  
+Bachelor's Degree in Vehicle Engineering (5 years)  
+
+&nbsp;  -->
+
+
+<!-- ## 📓Patents
+- 3 Public Invention Patents. -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
