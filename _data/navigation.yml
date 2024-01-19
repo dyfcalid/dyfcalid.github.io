@@ -3,20 +3,20 @@ main:
   - title: "About Me"
     url: /#about-me
 
-  - title: "News"
-    url: /#news
+  # - title: "News"
+  #   url: /#news
 
   - title: "Publications"
     url: /#publications
 
   - title: "Honors&Awards"
     url: /#honors-and-awards
-  
-  # - title: "Educations"
-  #   url: /#educations
 
-  # - title: "Research Experience"
-  #   url: /#research-experience
+  # - title: "Experience"
+  #   url: /experience/
+
+  - title: "Explore"
+    url: /explore/
 
   - title: "CV"
     url: /cv/

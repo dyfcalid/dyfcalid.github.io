@@ -22,9 +22,9 @@ I'm also looking for research internship and **Ph.D. (2025 fall)** opportunities
 Download my [Resumé](../files/CV_ZehanZheng.pdf).
   
 <div align=center>
-<img src='../images/logo_tongji.png' alt="tongji" width="16%"> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<img src='../images/logo_opendrivelab.png' alt="opendrivelab" width="20%"> 
+<img src='../images/logo_tongji.png' alt="tongji" width="13%"> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src='../images/logo_opendrivelab.png' alt="opendrivelab" width="15%"> 
 </div>
 
 &nbsp;  
@@ -51,7 +51,7 @@ Download my [Resumé](../files/CV_ZehanZheng.pdf).
 
 **NeuralPCI: Spatio-temporal Neural Field for 3D Point Cloud Multi-frame Non-linear Interpolation**  
 **Zehan Zheng**∗, Danni Wu∗, Ruisi Lu, Fan Lu, Guang Chen, Changjun Jiang  
-CVPR, 2023  
+**CVPR**, 2023  
 **[[Paper]](https://arxiv.org/abs/2303.15126)** &#124; **[[Code]](https://github.com/ispc-lab/NeuralPCI)** &#124; **[[Project Page]](https://dyfcalid.github.io/NeuralPCI)**  | **[[Video]](https://www.youtube.com/watch?v=KXPkEwBGzOI)** (6min)| **[[Talk]](https://www.bilibili.com/video/BV1Ch4y1x75q?t=27896)** (15min, Chinese) | **[[Slides]](https://drive.google.com/file/d/141G0mk4XubM4HFSyyXsCWZBuzXQ9PGO0/view?usp=sharing)** | **[[Poster]](https://drive.google.com/file/d/1sahMOrG32hRhqSxqoreW65U1DcSKCvgm/view?usp=sharing)**  
 End-to-end 4D spatio-temporal Neural field for 3D Point Cloud Interpolation, which implicitly integrates multi-frame information to handle nonlinear large motions for both indoor and outdoor scenarios.  
 
@@ -64,7 +64,7 @@ End-to-end 4D spatio-temporal Neural field for 3D Point Cloud Interpolation, whi
   
 **PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark**  
 Li Chen∗, Chonghao Sima∗, Yang Li∗, **Zehan Zheng**, Jiajie Xu, Xiangwei Geng, Hongyang Li, Conghui He, Jianping Shi, Yu Qiao, Junchi Yan. (∗ equal contributions)  
-ECCV, 2022 (Oral)  
+**ECCV**, 2022 (Oral)  
 **[[Paper]](https://arxiv.org/abs/2203.11089)** &#124; **[[Code]](https://github.com/OpenDriveLab/PersFormer_3DLane)** &#124; **[[Blog]](https://zhuanlan.zhihu.com/p/552908337)** &#124; **[[Slides]](https://docs.google.com/presentation/d/1on8TmXQSXo0n-dI9voRUe5j8YNg2CfcmoP7esK0GuXI/edit?usp=sharing)** &#124; **[[Video]](https://www.youtube.com/watch?v=JJ84ttN4hBY)** (4min) &#124; **[[Talk]](https://app6ca5octe2206.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_63311e31e4b0c942649a9314)** (50min) &#124; **[[Poster]](https://drive.google.com/file/d/1aCc3yJkfjSSmtdXIicG4cov2f1EalbSX/view?usp=sharing)**  
 End-to-end monocular 3D lane detector with a novel Transformer-based spatial feature transformation module which generates BEV features by attending to related front-view local regions with camera parameters as a reference. 
 
