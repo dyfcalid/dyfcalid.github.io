@@ -19,7 +19,7 @@ My research interests mainly focus on 3D Computer Vision, Dynamic Reconstruction
 
 I'm also looking for research internship and **Ph.D. (2025 fall)** opportunities, please feel free to drop me an [email](mailto:zhengzehan@tongji.edu.cn)📬!  
 
-Download my [Resumé](../files/CV_ZehanZheng.pdf).
+Download my [Curriculum Vitae](../files/CV_ZehanZheng.pdf) or [Résumé](../files/Resume_ZehanZheng.pdf) (one-page).
   
 <div align=center>
 <img src='../images/logo_tongji.png' alt="tongji" width="13%"> 
