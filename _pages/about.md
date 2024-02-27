@@ -17,7 +17,7 @@ I am currently a second-year M.S.E. student at the [ISPC Lab](https://ispc-group
 
 My research interests mainly focus on 3D Computer Vision, Dynamic Reconstruction and Autonomous Driving Perception. In 2022, I was a research intern at [OpenDriveLab](https://opendrivelab.com/) of [Shanghai AI Laboratory](https://www.shlab.org.cn/) advised by [Prof. Hongyang Li](https://scholar.google.com/citations?user=Hfrih1EAAAAJ&hl=en).
 
-I'm also looking for research internship and **Ph.D. (2025 fall)** opportunities, please feel free to drop me an [email](mailto:zhengzehan@tongji.edu.cn)📬!  
+I'm also looking for research internship and **Ph.D. (Fall 2025)** opportunities, please feel free to drop me an [email](mailto:zhengzehan@tongji.edu.cn)📬!  
 
 Download my [Curriculum Vitae](../files/CV_ZehanZheng.pdf) or [Résumé](../files/Resume_ZehanZheng.pdf) (one-page).
   
@@ -30,6 +30,7 @@ Download my [Curriculum Vitae](../files/CV_ZehanZheng.pdf) or [Résumé](../file
 &nbsp;  
   
 ## 🔥News
+**[2024/02]** 🎉 One paper was accepted by **CVPR 2024**.  
 **[2023/02]** 🎉 One paper was accepted by **CVPR 2023**.  
 **[2022/07]** 🎉 One paper was accepted by **ECCV 2022 (Oral, top 2.7%)**.
   
@@ -37,6 +38,19 @@ Download my [Curriculum Vitae](../files/CV_ZehanZheng.pdf) or [Résumé](../file
 &nbsp;  
 
 ## 📝Publications
+
+<div class='paper-box'><div class='paper-box-image'>
+<div class='paper-box-text' markdown="1">
+
+**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**   
+**Zehan Zheng**, Fan Lu, Weiyi Xue, Guang Chen, Changjun Jiang.   
+**CVPR**, 2024  
+[Paper] &#124; [Code] &#124; [Project Page] **(Coming Soon)**  
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'>
 <video autoplay loop muted playsinline width="25%">
   <source src="..\static\videos\NeuralPCI\webm\DHB_demo_1.webm" type="video/webm" />
@@ -94,7 +108,7 @@ Based on the drone to complete the calibration of the vehicle-mounted surround-v
 
 ## 💻Research Experience
 
-- 2022 - Present  
+- July 2022 - Present  
   ***Research Assistant*** - **Intelligent Sensing, Perception and Computing Lab ([ISPC](https://ispc-group.github.io/)), Tongji University**  
   Research included: 3D Point Clouds, 4D Reconstruction, Neural Fields  
   Advisor: [Prof. Guang Chen](https://scholar.google.com/citations?user=kBhIyv4AAAAJ)   
