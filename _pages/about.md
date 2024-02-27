@@ -39,13 +39,14 @@ Download my [Curriculum Vitae](../files/CV_ZehanZheng.pdf) or [Résumé](../file
 
 ## 📝Publications
 
-<div class='paper-box'><div class='paper-box-image'>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
 
 **LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**   
 **Zehan Zheng**, Fan Lu, Weiyi Xue, Guang Chen, Changjun Jiang.   
 **CVPR**, 2024  
 [Paper] &#124; [Code] &#124; [Project Page] **(Coming Soon)**  
+
 </div>
 </div>
 
