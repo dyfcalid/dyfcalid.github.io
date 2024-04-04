@@ -39,13 +39,13 @@ Download my [Curriculum Vitae](../files/CV_ZehanZheng.pdf) or [Résumé](../file
 
 ## 📝Publications
 
-<div class='paper-box'><div class='paper-box-image'><img src='../images/lidar4d.png' alt="persformer_overview" width="80%">
+<div class='paper-box'><div class='paper-box-image' align="center"><img src='..\static\images\LiDAR4D\dynamic_scene.png' alt="lidar4d" width="80%">
 </div><div class='paper-box-text' markdown="1">
 
 **LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**   
 **Zehan Zheng**, Fan Lu, Weiyi Xue, Guang Chen, Changjun Jiang.   
 **CVPR**, 2024  
-[Paper] &#124; [Code] &#124; [Project Page] **(Coming Soon)**  
+**[[Paper]](https://arxiv.org/abs/2404.02742) &#124; [[Code]](https://github.com/ispc-lab/LiDAR4D) &#124; [[Project Page]](https://dyfcalid.github.io/LiDAR4D)** 
 
 </div>
 </div>
