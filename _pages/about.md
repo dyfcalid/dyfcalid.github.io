@@ -39,7 +39,7 @@ Download my [Curriculum Vitae](../files/CV_ZehanZheng.pdf) or [Résumé](../file
 
 ## 📝Publications
 
-<div class='paper-box'><div class='paper-box-image'><img src='..\static\images\LiDAR4D\dynamic_scene.png' alt="lidar4d">
+<div class='paper-box'><div class='paper-box-image'><img src='..\static\images\LiDAR4D\dynamic_scene.png' alt="lidar4d" width="100%">
 </div><div class='paper-box-text' markdown="1">
 
 **LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**   
