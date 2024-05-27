@@ -30,7 +30,11 @@ Download my [Curriculum Vitae](../files/CV_ZehanZheng.pdf) or [Résumé](../file
 &nbsp;  
   
 ## 🔥News
+**[2024/05]** Invited as Reviewer for NeurIPS.  
 **[2024/02]** 🎉 One paper was accepted by **CVPR 2024**.  
+**[2024/01]** Invited as Reviewer for ECCV.  
+**[2023/11]** Invited as Reviewer for CVPR.  
+**[2023/05]** Invited as Reviewer for ICCV.  
 **[2023/02]** 🎉 One paper was accepted by **CVPR 2023**.  
 **[2022/07]** 🎉 One paper was accepted by **ECCV 2022 (Oral, top 2.7%)**.
   
@@ -98,7 +102,7 @@ End-to-end monocular 3D lane detector with a novel Transformer-based spatial fea
   
 **Vehicle-mounted Surround-view Fisheye Camera Panoramic Bird's Eye View (BEV) Calibration**  
 
-**[[GitHub Demo]](https://github.com/dyfcalid/CameraCalibration)**  
+**[[GitHub Demo]](https://github.com/dyfcalid/CameraCalibration)**  ![GitHub Star](https://img.shields.io/github/stars/dyfcalid/CameraCalibration?label=stars&style=social)  
 Based on the drone to complete the calibration of the vehicle-mounted surround-view fisheye camera, the conversion and stitching of the panoramic bird's eye view (BEV).
 
 </div>
