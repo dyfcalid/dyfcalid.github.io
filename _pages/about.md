@@ -49,8 +49,8 @@ Download my [Curriculum Vitae](../files/CV_ZehanZheng.pdf) or [Résumé](../file
 **LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**   
 **Zehan Zheng**, Fan Lu, Weiyi Xue, Guang Chen, Changjun Jiang.   
 **CVPR**, 2024  
-**[[Paper]](https://arxiv.org/abs/2404.02742) &#124; [[Code]](https://github.com/ispc-lab/LiDAR4D) &#124; [[Project Page]](https://dyfcalid.github.io/LiDAR4D)**   
-Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, which reconstructs dynamic driving scenarios and generates realistic LiDAR point clouds end-to-end.
+**[[Paper]](https://arxiv.org/abs/2404.02742) &#124; [[Code]](https://github.com/ispc-lab/LiDAR4D) &#124; [[Project Page]](https://dyfcalid.github.io/LiDAR4D) &#124; [[Video]](https://www.youtube.com/watch?v=E6XyG3A3EZ8) &#124; [[Slides]](https://drive.google.com/file/d/1Q6yTVGoBf_nfWR4rW9RcSGlxRMufmSXc/view?usp=sharing) &#124; [[Poster]](https://drive.google.com/file/d/13cf0rSjCjGRyBsYOcQSa6Qf1Oe1a5QCy/view?usp=sharing)**   
+Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, which reconstructs dynamic driving scenarios and generates realistic LiDAR point clouds end-to-end. It also supports simulation in the dynamic scene.
 </div>
 </div>
 
@@ -72,7 +72,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 **Zehan Zheng**∗, Danni Wu∗, Ruisi Lu, Fan Lu, Guang Chen, Changjun Jiang  
 **CVPR**, 2023  
 **[[Paper]](https://arxiv.org/abs/2303.15126)** &#124; **[[Code]](https://github.com/ispc-lab/NeuralPCI)** &#124; **[[Project Page]](https://dyfcalid.github.io/NeuralPCI)**  | **[[Video]](https://www.youtube.com/watch?v=KXPkEwBGzOI)** (6min)| **[[Talk]](https://www.bilibili.com/video/BV1Ch4y1x75q?t=27896)** (15min, Chinese) | **[[Slides]](https://drive.google.com/file/d/141G0mk4XubM4HFSyyXsCWZBuzXQ9PGO0/view?usp=sharing)** | **[[Poster]](https://drive.google.com/file/d/1sahMOrG32hRhqSxqoreW65U1DcSKCvgm/view?usp=sharing)**  
-End-to-end 4D spatio-temporal Neural field for 3D Point Cloud Interpolation, which implicitly integrates multi-frame information to handle nonlinear large motions for both indoor and outdoor scenarios.  
+4D spatio-temporal Neural field for 3D Point Cloud Interpolation, which implicitly integrates multi-frame information to handle nonlinear large motions for both indoor and outdoor scenarios.  
 
 </div>
 </div>
