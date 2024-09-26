@@ -30,6 +30,8 @@ Download my [Curriculum Vitae](../files/CV_ZehanZheng.pdf) or [Résumé](../file
 &nbsp;  
   
 ## 🔥News
+**[2024/09]** 🎉 Two paper was accepted by **NeurIPS 2024**.  
+**[2024/08]** Invited as Reviewer for ICLR.  
 **[2024/05]** Invited as Reviewer for NeurIPS.  
 **[2024/02]** 🎉 One paper was accepted by **CVPR 2024**.  
 **[2024/01]** Invited as Reviewer for ECCV.  
