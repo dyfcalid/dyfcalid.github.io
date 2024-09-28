@@ -38,7 +38,13 @@
     font-size: $type-size-5;
   }
 
-  p, li {
+  li {
+    font-family: $sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  p {
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
@@ -83,14 +89,22 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 200px;
+    border-radius: 30%;
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
     }
   }
+}
+
+.author__watermark {
+  margin: 0;
+  // color: #fff;
+  color: $light-gray;
+  text-align: center;
+
 }
 
 .author__content {
