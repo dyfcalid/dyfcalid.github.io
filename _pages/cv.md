@@ -13,12 +13,6 @@ redirect_from:
   </ul>
 </div>
 
-<div class="author__urls-wrapper">
-  <ul class="author__urls social-icons">
-  <a href="../files/Resume_ZehanZheng.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> Download Résumé (one-page) Here</a>
-  </ul>
-</div>
-
 <embed src="../files/CV_ZehanZheng.pdf" type="application/pdf" width="100%" height="100%">  
 
 
