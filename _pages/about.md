@@ -75,7 +75,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 **NeuralPCI: Spatio-temporal Neural Field for 3D Point Cloud Multi-frame Non-linear Interpolation**  
 **Zehan Zheng**∗, Danni Wu∗, Ruisi Lu, Fan Lu, Guang Chen, Changjun Jiang  
 **CVPR**, 2023  
-**[[Paper]](https://arxiv.org/abs/2303.15126)** &#124; **[[Code]](https://github.com/ispc-lab/NeuralPCI)** &#124; **[[Project Page]](https://dyfcalid.github.io/NeuralPCI)**  | **[[Video]](https://www.youtube.com/watch?v=KXPkEwBGzOI)** (6min)| **[[Talk]](https://www.bilibili.com/video/BV1Ch4y1x75q?t=27896)** (15min, Chinese) | **[[Slides]](https://drive.google.com/file/d/141G0mk4XubM4HFSyyXsCWZBuzXQ9PGO0/view?usp=sharing)** | **[[Poster]](https://drive.google.com/file/d/1sahMOrG32hRhqSxqoreW65U1DcSKCvgm/view?usp=sharing)**  
+**[[Paper]](https://arxiv.org/abs/2303.15126)** &#124; **[[Code]](https://github.com/ispc-lab/NeuralPCI)** &#124; **[[Project Page]](https://dyfcalid.github.io/NeuralPCI)**  | **[[Video]](https://www.youtube.com/watch?v=KXPkEwBGzOI)** (6min)| **[[Talk]](https://www.bilibili.com/video/BV1Ch4y1x75q?t=27896)** (15min) | **[[Slides]](https://drive.google.com/file/d/141G0mk4XubM4HFSyyXsCWZBuzXQ9PGO0/view?usp=sharing)** | **[[Poster]](https://drive.google.com/file/d/1sahMOrG32hRhqSxqoreW65U1DcSKCvgm/view?usp=sharing)**  
 4D spatio-temporal Neural field for 3D Point Cloud Interpolation, which implicitly integrates multi-frame information to handle nonlinear large motions for both indoor and outdoor scenarios.  
 
 </div>
