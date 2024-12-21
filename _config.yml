@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zehan Zheng"
-  avatar           : "profile_3.jpg"
+  avatar           : "profile.jpg"
   watermark        : "Photographed @ Stanford"
   bio              : "Second-year M.S.E. Student in Tongji University" # "Your biography for the left-hand sidebar"
   location         : "Shanghai, China" # "Location"

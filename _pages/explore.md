@@ -12,6 +12,19 @@ redirect_from:
 
 > *Explore the World and Embrace Life*
 
+<div align="left">
+  <font size=5> <strong>  ↓ NeurIPS24 with Kaiming He and Feifei Li </strong> </font>
+</div>
+
+---
+
+<img src='../images/neurips_1.jpg' alt="hiking" width="62.5%">
+<img src='../images/neurips_2.jpg' alt="cvpr2023" width="35%">
+
+&nbsp;
+
+---
+
 
 <div align="left">
   <font size=5> <strong>  ↓ CVPR23@Vancouver, Chat with Andrew Ng 😆 </strong> </font>

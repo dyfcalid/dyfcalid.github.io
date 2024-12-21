@@ -31,13 +31,15 @@ Download my [Curriculum Vitae](../files/CV_ZehanZheng.pdf).
 <!-- &nbsp;   -->
   
 ## 🔥News
+**[2024/12]** Invited Talk at Princeton University. [[slides]](../files/Talk_princeton_zehan.pdf)   
+**[2024/12]** Invited as a Reviewer for ICML.  
 **[2024/09]** 🎉 Two papers was accepted by **NeurIPS 2024**.  
-**[2024/08]** Invited as Reviewer for ICLR.  
-**[2024/05]** Invited as Reviewer for NeurIPS.  
+**[2024/08]** Invited as a Reviewer for ICLR.  
+**[2024/05]** Invited as a Reviewer for NeurIPS.  
 **[2024/02]** 🎉 One paper was accepted by **CVPR 2024**.  
-**[2024/01]** Invited as Reviewer for ECCV.  
-**[2023/11]** Invited as Reviewer for CVPR.  
-**[2023/05]** Invited as Reviewer for ICCV.  
+**[2024/01]** Invited as a Reviewer for ECCV.  
+**[2023/11]** Invited as a Reviewer for CVPR.  
+**[2023/05]** Invited as a Reviewer for ICCV.  
 **[2023/02]** 🎉 One paper was accepted by **CVPR 2023**.  
 **[2022/07]** 🎉 One paper was accepted by **ECCV 2022 (Oral, top 2.7%)**.
   
