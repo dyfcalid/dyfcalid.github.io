@@ -54,7 +54,7 @@ Download my [Curriculum Vitae](../files/CV_ZehanZheng.pdf).
 **LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**   
 **Zehan Zheng**, Fan Lu, Weiyi Xue, Guang Chen, Changjun Jiang.   
 **CVPR**, 2024  
-**[[Paper]](https://arxiv.org/abs/2404.02742) &#124; [[Code]](https://github.com/ispc-lab/LiDAR4D) &#124; [[Project Page]](https://dyfcalid.github.io/LiDAR4D) &#124; [[Video]](https://www.youtube.com/watch?v=E6XyG3A3EZ8) &#124; [[Slides]](https://drive.google.com/file/d/1Q6yTVGoBf_nfWR4rW9RcSGlxRMufmSXc/view?usp=sharing) &#124; [[Poster]](https://drive.google.com/file/d/13cf0rSjCjGRyBsYOcQSa6Qf1Oe1a5QCy/view?usp=sharing)**   
+**[[Paper]](https://arxiv.org/abs/2404.02742) &#124; [[Code]](https://github.com/ispc-lab/LiDAR4D) &#124; [[Project Page]](https://dyfcalid.github.io/LiDAR4D) &#124; [[Video]](https://www.youtube.com/watch?v=E6XyG3A3EZ8) &#124; [[Talk]](https://www.bilibili.com/video/BV1Uy411Y766/?t=10870) &#124; [[Slides]](https://drive.google.com/file/d/1Q6yTVGoBf_nfWR4rW9RcSGlxRMufmSXc/view?usp=sharing) &#124; [[Poster]](https://drive.google.com/file/d/13cf0rSjCjGRyBsYOcQSa6Qf1Oe1a5QCy/view?usp=sharing)**   
 Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, which reconstructs dynamic driving scenarios and generates realistic LiDAR point clouds end-to-end. It also supports simulation in the dynamic scene.  
 
 </div>
@@ -90,7 +90,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 **GeoNLF: Geometry-guided Pose-Free Neural LiDAR Fields**   
 Weiyi Xue∗, <b>Zehan Zheng</b>∗, Fan Lu, Haiyun Wei, Guang Chen, Changjun Jiang   
 **NeurIPS**, 2024  
-(*Coming Soon*)  
+**[[Paper]](https://openreview.net/pdf/b3ec2fcef289fdc0a522265263e68abbbc1b50ff.pdf) &#124; [[Poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93231.png?t=1733402073.7734404)**  
 Global neural optimization framework for pose-free LiDAR reconstruction, which provides explicit geometric priors and achieve simultaneous large-scale multi-view registration and novel view synthesis.  
 
 </div>
@@ -103,7 +103,7 @@ Global neural optimization framework for pose-free LiDAR reconstruction, which p
 **RCDN: Towards Robust Camera Insensitivity Collaborative Perception via Dynamic Feature-based 3D Neural Modeling**   
 Tianhang Wang, Fan Lu, **Zehan Zheng**, Guang Chen, Changjun Jiang    
 **NeurIPS**, 2024  
-(*Coming Soon*)   
+**[[Paper]](https://openreview.net/pdf/77f2d832456b7a6eb754fdba89e8ffddfcc6ed91.pdf) &#124; [[Slides]](https://neurips.cc/media/neurips-2024/Slides/93052.pdf) &#124; [[Poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93052.png?t=1731389969.1951804)**    
 Collaborative perception framework with BEV feature based static and dynamic fields, which can recover failed perceptual messages sent by multiple agents and achieve high collaborative performance with low calibration cost.  
 
 </div>
