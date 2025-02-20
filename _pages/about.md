@@ -90,7 +90,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 **GeoNLF: Geometry-guided Pose-Free Neural LiDAR Fields**   
 Weiyi Xue∗, <b>Zehan Zheng</b>∗, Fan Lu, Haiyun Wei, Guang Chen, Changjun Jiang   
 **NeurIPS**, 2024  
-**[[Paper]](https://openreview.net/pdf/b3ec2fcef289fdc0a522265263e68abbbc1b50ff.pdf) &#124; [[Poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93231.png?t=1733402073.7734404)**  
+**[[Paper]](https://papers.nips.cc/paper_files/paper/2024/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf) &#124; **[[Code]](https://github.com/ispc-lab/GeoNLF)** &#124; [[Poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93231.png?t=1733402073.7734404)**  
 Global neural optimization framework for pose-free LiDAR reconstruction, which provides explicit geometric priors and achieve simultaneous large-scale multi-view registration and novel view synthesis.  
 
 </div>
@@ -103,7 +103,7 @@ Global neural optimization framework for pose-free LiDAR reconstruction, which p
 **RCDN: Towards Robust Camera Insensitivity Collaborative Perception via Dynamic Feature-based 3D Neural Modeling**   
 Tianhang Wang, Fan Lu, **Zehan Zheng**, Guang Chen, Changjun Jiang    
 **NeurIPS**, 2024  
-**[[Paper]](https://openreview.net/pdf/77f2d832456b7a6eb754fdba89e8ffddfcc6ed91.pdf) &#124; [[Slides]](https://neurips.cc/media/neurips-2024/Slides/93052.pdf) &#124; [[Poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93052.png?t=1731389969.1951804)**    
+**[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/27e5626cabdbb6cd5c56ce4114ff93e4-Paper-Conference.pdf) &#124; [[Slides]](https://neurips.cc/media/neurips-2024/Slides/93052.pdf) &#124; [[Poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93052.png?t=1731389969.1951804)**    
 Collaborative perception framework with BEV feature based static and dynamic fields, which can recover failed perceptual messages sent by multiple agents and achieve high collaborative performance with low calibration cost.  
 
 </div>
